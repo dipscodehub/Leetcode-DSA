@@ -1,4 +1,5 @@
-
+# Time Complexity O(n^2)
+# Space Complexity O(n)
 def threeNumberSum(nums, target):
     nums.sort()
     resultArr = []
